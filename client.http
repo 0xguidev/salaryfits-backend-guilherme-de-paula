@@ -1,0 +1,11 @@
+@baseUrl = http://localhost:3333
+POST {{baseUrl}}/accounts
+Content-Type: application/json
+
+{
+    "name": "user",
+    "email": "user@salaryfits.com.br",
+    "password": "UmasenhamUitofortE0x##"
+}
+
+
